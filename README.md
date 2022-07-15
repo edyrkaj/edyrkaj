@@ -12,7 +12,8 @@
   <img align="left" alt="Eledi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </br>
-![](https://visitor-badge.glitch.me/badge?page_id=edyrkaj.edyrkaj)
+
+![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fedyrkaj%2Fedyrkaj&label=visitors&labelColor=%232ccce4&countColor=%23697689&style=flat)
 
 <br />
 
