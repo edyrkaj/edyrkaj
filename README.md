@@ -20,7 +20,7 @@
 
 hi, i'm [Eledi Dyrkaj](https://e-soft.al/), a passionate full stack web developer and a freelance software engineer from Albania. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-also, I am one of the founders at [Gilded Finance](https://gilded.finance)
+also, I am one of the founders of [Gilded Finance](https://gilded.finance)
 
 
 <img align="right" alt="GIF" src="https://github.com/edyrkaj/edyrkaj/blob/main/coding.gif?raw=true" width="500" height="320" />
@@ -75,7 +75,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺 &nbsp; 👉 �
 📈 &nbsp; my github stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=edyrkaj&count_private=true&show_icons=true&theme=swift" alt="Eledi Dyrkaj" />
+<img src="https://github-readme-stats.vercel.app/api?username=edyrkaj&count_private=true&show_icons=true" alt="Eledi Dyrkaj" />
 
 
 
