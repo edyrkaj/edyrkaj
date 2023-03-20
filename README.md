@@ -17,11 +17,8 @@
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fedyrkaj%2Fedyrkaj&label=visitors&labelColor=%232ccce4&countColor=%23697689&style=flat)
 
 <br />
-
-hi, i'm [Eledi Dyrkaj](https://e-soft.al/), a passionate full stack web developer and a freelance software engineer from Albania. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
+Hi, I'm [Eledi Dyrkaj](https://e-soft.al/), a passionate full-stack web developer and a freelance software engineer from Albania. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 also, I am one of the founders of [Gilded Finance](https://gilded.finance)
-
 
 <img align="right" alt="GIF" src="https://github.com/edyrkaj/edyrkaj/blob/main/coding.gif?raw=true" width="500" height="320" />
 
