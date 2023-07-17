@@ -1,16 +1,16 @@
 ### hey there,
 
 <a href="https://www.instagram.com/edyrkaj/">
-  <img align="left" alt="Eledi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Eledi's Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/32/instagram-icon.svg" />
 </a>
 <a href="https://discord.gg/eNjDhYXV">
-  <img align="left" alt="Eledi's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Eledi's Discord" width="22px" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg" />
 </a>
 <a href="https://twitter.com/edyrkaj">
-  <img align="left" alt="Eledi Dyrkaj | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Eledi Dyrkaj | Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/39/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/eledidyrkaj/">
-  <img align="left" alt="Eledi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Eledi's LinkedIN" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
 </a>
 </br>
 
