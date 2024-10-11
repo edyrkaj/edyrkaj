@@ -46,10 +46,12 @@ also, I am one of the founders of [Gilded Finance](https://gilded.finance)
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 37 mins   ███████████░░░░░░░░░░░░░░   35.49 %
-TypeScript   2 hrs  5 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
-Python       2 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   22.00 %
-GCL          2 hrs  0 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
+JavaScript   12 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   13.05 %
+TypeScript   35 hrs  5 mins   ████████████░░░░░░░░░░░░░   37.78 %
+Go           25 hrs 10 mins   █████████▒░░░░░░░░░░░░░░░   26.60 %
+Rust           0 hrs 0 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Vue3         10 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   10.62 %
+GCL          12 hrs  0 mins   █████▒░░░░░░░░░░░░░░░░░░░   11.95 %
 ```
 
 <!--END_SECTION:waka-->
