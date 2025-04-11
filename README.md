@@ -17,9 +17,9 @@
 ![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fedyrkaj%2Fedyrkaj&label=visitors&labelColor=%232ccce4&countColor=%23697689&style=flat)
 
 <br />
-Hi, I'm [Eledi Dyrkaj](https://e-soft.al/), a passionate full-stack web developer and a freelance software engineer from Albania. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-also, I am one of the founders of [Gilded Finance](https://gilded.finance)
-
+Hi, I'm [Eledi Dyrkaj](https://e-soft.al/), a passionate senior full-stack web developer and also a freelance software engineer from Albania. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+also, I am one of the founders of [Gilded Finance](https://gilded.finance). Currently working for BitAlpha, Inc. [Bitwave](https://www.bitwave.io/) the number #1 Digital Asset Finance platform.
+<br />
 <img align="right" alt="GIF" src="https://github.com/edyrkaj/edyrkaj/blob/main/coding.gif?raw=true" width="500" height="320" />
 
 - 💼 any project to work? do reach, [email](mailto:eledi.dyrkaj@e-soft.al) :)
@@ -46,12 +46,12 @@ also, I am one of the founders of [Gilded Finance](https://gilded.finance)
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   13.05 %
-TypeScript   35 hrs  5 mins   ████████████░░░░░░░░░░░░░   37.78 %
-Go           25 hrs 10 mins   █████████▒░░░░░░░░░░░░░░░   26.60 %
-Rust           0 hrs 0 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Vue3         10 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   10.62 %
-GCL          12 hrs  0 mins   █████▒░░░░░░░░░░░░░░░░░░░   11.95 %
+JavaScript   █████░░░░░░░░░░░░░░░░░░░░   06.00 %
+TypeScript   ████████░░░░░░░░░░░░░░░░░   13.00 %
+Go           █████████████████▒░░░░░░░   58.00 %
+Rust         ██░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Vue3         █████▒░░░░░░░░░░░░░░░░░░░   09.00 %
+GCL          █████▒░░░░░░░░░░░░░░░░░░░   09.00 %
 ```
 
 <!--END_SECTION:waka-->
